@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.Domain", "Theatres.Domain\Theatres.Domain.csproj", "{34A11FC4-82BA-49C4-AFF1-17B24360A9F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.BLL", "Theatres.BLL\Theatres.BLL.csproj", "{10D61B2F-3675-4F41-B40F-47D16FF3920F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.DataAccess", "Theatres.DataAccess\Theatres.DataAccess.csproj", "{274BCB87-7B75-4799-BAB6-16F28CBD48C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.WebAPI", "Theatres.WebAPI\Theatres.WebAPI.csproj", "{59A9F82E-9A48-4A74-9E21-9351542E7557}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.Client", "Theatres.Client\Theatres.Client.csproj", "{FB290F85-20BD-46E6-ABE9-0BD6C4550DE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatres.BLL.Tests", "Theatres.BLL.Tests\Theatres.BLL.Tests.csproj", "{EA579382-24DA-4B53-BE36-F0F82BCAE39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A11FC4-82BA-49C4-AFF1-17B24360A9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A11FC4-82BA-49C4-AFF1-17B24360A9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A11FC4-82BA-49C4-AFF1-17B24360A9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A11FC4-82BA-49C4-AFF1-17B24360A9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D61B2F-3675-4F41-B40F-47D16FF3920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D61B2F-3675-4F41-B40F-47D16FF3920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D61B2F-3675-4F41-B40F-47D16FF3920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D61B2F-3675-4F41-B40F-47D16FF3920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274BCB87-7B75-4799-BAB6-16F28CBD48C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274BCB87-7B75-4799-BAB6-16F28CBD48C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274BCB87-7B75-4799-BAB6-16F28CBD48C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274BCB87-7B75-4799-BAB6-16F28CBD48C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A9F82E-9A48-4A74-9E21-9351542E7557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A9F82E-9A48-4A74-9E21-9351542E7557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A9F82E-9A48-4A74-9E21-9351542E7557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A9F82E-9A48-4A74-9E21-9351542E7557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB290F85-20BD-46E6-ABE9-0BD6C4550DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB290F85-20BD-46E6-ABE9-0BD6C4550DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB290F85-20BD-46E6-ABE9-0BD6C4550DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB290F85-20BD-46E6-ABE9-0BD6C4550DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA579382-24DA-4B53-BE36-F0F82BCAE39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA579382-24DA-4B53-BE36-F0F82BCAE39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA579382-24DA-4B53-BE36-F0F82BCAE39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA579382-24DA-4B53-BE36-F0F82BCAE39F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B982434-55D1-4EC5-A55F-78AA9A194CD6}
+	EndGlobalSection
+EndGlobal
